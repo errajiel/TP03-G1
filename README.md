@@ -14,9 +14,11 @@ Un TP sur les balises HTML
         <li>créer trois autres fichier : apropos.html, contact.html et Languages.html dans le répertoire de travaille</li>
         <li>Enregistrer les modification apportées à votre espace de travaille sur github avec le message "Ajout des pages : apropos.html, contact.html et Languages.html "</li>
         <li>Modifiez les fichiers html pour obtenir les résultats suivantes :</li>
-        <img src="img2.png">
-        <img src="img2.png">
-        <img src="img2.png">
+        <ul>
+                <li>languages.html<img src="img2.png"></li>
+                <li>aproppos.html<img src="img3.png"></li>
+                <li>contact.html<img src="img4.png"></li>
+        </ul>
         <li>Enregistrer les modifications apportées à votre espace de travail dans le repo git avec le message "contenue des pages html à été mis à jour"</li>
         <li>Modifier les fichier fichier index.html pour créer des liens vers les autres pages</li>
         <li>Refaire la même chose pour les autres fichiers</li>
